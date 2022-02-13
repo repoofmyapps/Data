@@ -1,0 +1,104 @@
+{
+	"DiyetRehberim": [		
+		{
+			"id": "10",
+			"image": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/uygulamayi_guncelle.jpg",
+			"title": "1.2.1.2",
+			"desc": "this",
+			"tag": "explanation",
+			"related": "advertised",
+			"content":"check",
+			"url":"https://play.google.com/store/apps/details?id=com.kmkappdeveloper.diyetrehberim"
+		},
+		{
+			"id": "9",
+			"image": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/paylas_image.jpg",
+			"title": "null",
+			"desc": "null",
+			"tag": "explanation",
+			"related": "advertised",
+			"content":"share",
+			"url":"null"
+		},
+		{
+			"id": "8",
+			"image": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/mail_gonder_v5.jpg",
+			"title": "null",
+			"desc": "null",
+			"tag": "explanation",
+			"related": "adfree",
+			"content":"mail",
+			"url":"null"
+		},
+		{
+			"id": "7",
+			"image": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/hurma.jpg",
+			"title": "HURMA",
+			"desc": "Kansere karşı koruyucu etki gösterir.\nBağışıklık sistemini güçlendirir.\nKansızlığa iyi gelir.",
+			"tag": "content",
+			"related": "both",
+			"content":"content",
+			"url":"null"
+		},
+		{
+			"id": "6",
+			"image": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/yulaf.jpg",
+			"title": "YULAF",
+			"desc": "Lif, protein ve mineral deposudur.\nKilo vermeye yardımcıdır.",
+			"tag": "content",
+			"related": "both",
+			"content":"content",
+			"url":"null"
+		},
+		{
+			"id": "5",
+			"image": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/yumurta.jpg",
+			"title": "YUMURTA",
+			"desc": "Bağışıklık sistemini güçlendirir.\nHer yumurta 6-12 gr arası protein içerir.",
+			"tag": "content",
+			"related": "both",
+			"content":"content",
+			"url":"null"
+		},
+		{
+			"id": "4",
+			"image": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/badem.jpg",
+			"title": "BADEM",
+			"desc": "Protein ve yağ açısından önemli bir kaynaktır.\nAyrıca güçlü bir antioksidandır.",
+			"tag": "content",
+			"related": "both",
+			"content":"content",
+			"url":"null"
+		},
+		{
+			"id": "3",
+			"image": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/balik_yagi.jpg",
+			"title": "BALIK YAĞI",
+			"desc": "Metabolizmanızı hızlandırır.\nYağ yakımına yardımcı olur.\nHafızanızı güçlendirir.",
+			"tag": "content",
+			"related": "both",
+			"content":"content",
+			"url":"null"
+		},
+		{
+			"id": "2",
+			"image": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/muz.jpg",
+			"title": "MUZ",
+			"desc": "Bağırsak problemleriniz için sağlıklı ve besleyici bir meyve türüdür.",
+			"tag": "content",
+			"related": "both",
+			"content":"content",
+			"url":"null"
+		},
+		{
+			"id": "1",
+			"image": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/ispanak.jpg",
+			"title": "ISPANAK",
+			"desc": "Demir, iyot, potasyum, çinko ve kalsiyum açısından oldukça zengindir.",
+			"tag": "content",
+			"related": "both",
+			"content":"content",
+			"url":"null"
+		}
+	]
+}
