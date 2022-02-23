@@ -1,10 +1,11 @@
 {
-	"DiyetRehberim": [
-		{
-			"all_items_size": 100,
-			"food_items_size": 3292,
-			"recipe_items_size": 11,
-			"slide_items_size": 11
-		}
-	]
+    "DiyetRehberim":
+    [
+        {
+            "all_items_size": 100,
+            "food_items_size": 3292,
+            "recipe_items_size": 11,
+            "slide_items_size": 11
+        }
+    ]
 }
