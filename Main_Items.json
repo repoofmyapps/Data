@@ -23,7 +23,16 @@
 
 
 
-
+		{
+			"diyet_id": "102",
+			"diyet_adi": "Yağ Yakımını Hızlandıran Detoks",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/Data/master/Images/maydanoz_detoksu.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/Data/RecipeList/tarif48.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Detoks Tarifleri",
+			"kategori_adi_ek": "Diyet Tarifleri",
+			"diyet_yazar": "editor"
+		},
 		{
 			"diyet_id": "101",
 			"diyet_adi": "Kızılcık Suyu Detoksu",
