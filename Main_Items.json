@@ -22,6 +22,18 @@
 		},
 
 
+
+
+		{
+			"diyet_id": "101",
+			"diyet_adi": "Kızılcık Suyu Detoksu",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/Data/master/Images/kizilcik_suyu_1.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/Data/RecipeList/tarif47.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Detoks Tarifleri",
+			"kategori_adi_ek": "Diyet Tarifleri",
+			"diyet_yazar": "editor"
+		},
 		{
 			"diyet_id": "100",
 			"diyet_adi": "Selanik Gevreği",
