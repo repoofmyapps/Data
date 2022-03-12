@@ -24,6 +24,16 @@
 
 
 		{
+			"diyet_id": "103",
+			"diyet_adi": "Sirtfood Diyeti Nasıl Yapılır?",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/Data/master/Images/sirtfood_1.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/Data/DietList/diyet43.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Verdiren Diyet Listeleri",
+			"kategori_adi_ek": "Faydalı İçerikler",
+			"diyet_yazar": "editor"
+		},
+		{
 			"diyet_id": "102",
 			"diyet_adi": "Yağ Yakımını Hızlandıran Detoks",
 			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/Data/master/Images/maydanoz_detoksu.jpg",
