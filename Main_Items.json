@@ -22,7 +22,16 @@
 		},
 
 
-
+		{
+			"diyet_id": "107",
+			"diyet_adi": "Yağ Yakıcı 5 Besin",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/Data/master/Images/yag_yakici_besinler.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/Data/DietList/diyet47.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Verdiren Diyet Listeleri",
+			"kategori_adi_ek": "Faydalı İçerikler",
+			"diyet_yazar": "editor"
+		},
 		{
 			"diyet_id": "106",
 			"diyet_adi": "Yağları Hızla Yaktıran Doğal İçecek",
@@ -33,7 +42,6 @@
 			"kategori_adi_ek": "Diyet Tarifleri",
 			"diyet_yazar": "editor"
 		},
-
 		{
 			"diyet_id": "105",
 			"diyet_adi": "13 Günlük İsveç Diyeti",
