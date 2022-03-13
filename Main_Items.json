@@ -23,6 +23,26 @@
 
 
 		{
+			"diyet_id": "104",
+			"diyet_adi": "Tarçınlı Su",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/Data/master/Images/tarcin_1.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/Data/DietList/tarif49.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Detoks Tarifleri",
+			"kategori_adi_ek": "Diyet Tarifleri",
+			"diyet_yazar": "editor"
+		},
+		{
+			"diyet_id": "103",
+			"diyet_adi": "Sistem 20 ile Kilo Ver",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/Data/master/Images/system20_3.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/Data/DietList/diyet45.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Verdiren Diyet Listeleri",
+			"kategori_adi_ek": "Faydalı İçerikler",
+			"diyet_yazar": "editor"
+		},
+		{
 			"diyet_id": "102",
 			"diyet_adi": "7 Günlük Yumurta Diyeti",
 			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/Data/master/Images/haslanmis_yumurta_buyuk.jpg",
