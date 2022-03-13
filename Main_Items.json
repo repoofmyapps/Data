@@ -22,6 +22,19 @@
 		},
 
 
+
+
+
+		{
+			"diyet_id": "105",
+			"diyet_adi": "13 Günlük İsveç Diyeti",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/Data/master/Images/isvec_diyeti.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/Data/DietList/diyet46.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Verdiren Diyet Listeleri",
+			"kategori_adi_ek": "Faydalı İçerikler",
+			"diyet_yazar": "editor"
+		},
 		{
 			"diyet_id": "104",
 			"diyet_adi": "Tarçınlı Su",
