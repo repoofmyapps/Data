@@ -23,7 +23,16 @@
 
 
 
-
+		{
+			"diyet_id": "106",
+			"diyet_adi": "Yağları Hızla Yaktıran Doğal İçecek",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/Data/master/Images/zencefil_detoks.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/Data/DietList/tarif50.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Detoks Tarifleri",
+			"kategori_adi_ek": "Diyet Tarifleri",
+			"diyet_yazar": "editor"
+		},
 
 		{
 			"diyet_id": "105",
