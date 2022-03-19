@@ -1,16 +1,6 @@
 {
 	"DiyetRehberim": [				
 		{
-			"id": "12",
-			"image": "https://raw.githubusercontent.com/repoofmyapps/Data/master/SliderImages/uyari_mesaji.jpg",
-			"title": "null",
-			"desc": "null",
-			"tag": "explanation",
-			"related": "advertised",
-			"content":"mail",
-			"url":"null"
-		},
-		{
 			"id": "11",
 			"image": "https://raw.githubusercontent.com/repoofmyapps/Data/master/SliderImages/uygulamayi_guncelle.jpg",
 			"title": "1.2.1.7",
