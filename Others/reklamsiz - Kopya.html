@@ -17,6 +17,10 @@ xmlns:o="urn:schemas-microsoft-com:office:office">
   rel="stylesheet"
   />
 
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <script defer src="https://use.fontawesome.com/releases/v5.0.10/js/all.js" integrity="sha384-slN8GvtUJGnv6ca26v8EzVaR9DC58QEwsIk9q1QXdCU8Yu8ck/tL/5szYlBbqmS+" crossorigin="anonymous"></script>     
+
     <!-- <link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/repoofmyapps/Data/master/Others/favicon.ico">
     -->
     <style>
@@ -429,6 +433,29 @@ xmlns:o="urn:schemas-microsoft-com:office:office">
         background-position: center;
         background-repeat: no-repeat;
       }
+
+
+
+      td, th, button, .row-header {
+        font-weight: initial;
+      }
+      thead, tbody {
+        text-align: center;
+      }
+      .t-white, button {
+        vertical-align: middle !important;
+        color: white; 
+      }
+      .fa-check {
+        color: springgreen;
+      }
+      .fa-times{
+        color: red;
+      }
+
+
+
+
     </style>
   </head>
 
@@ -468,7 +495,13 @@ xmlns:o="urn:schemas-microsoft-com:office:office">
     >
     <tr>
       <td style="background-color:white;">
-        <img  src="https://raw.githubusercontent.com/repoofmyapps/Data/master/Images/zencefil_detoks.jpg" class="responsive_head">
+        <img style="    display: flex;
+        justify-content: center;
+        margin: 0 auto;     height: auto;
+        background-size: cover;
+        background-position: center;
+        margin-top: 48px;
+        background-repeat: no-repeat;" src="https://raw.githubusercontent.com/repoofmyapps/Data/master/Others/diyet_text_500.png" >
       </td>
     </tr>
 
@@ -479,11 +512,10 @@ xmlns:o="urn:schemas-microsoft-com:office:office">
         class="heading-section"
         style="
         text-align: center;
-        padding: 40px;
-        border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+        padding: 25px;
         "
         >
-        <h2>Yağları Hızla Yaktıran Doğal İçecek</h2>
+
       </div>
 
       <div style="padding: 25px; font-weight: 500; color: #383838; display: block; font-size: 16px;">
@@ -493,11 +525,90 @@ xmlns:o="urn:schemas-microsoft-com:office:office">
       </div>
 
       <a href="https://play.google.com/store/apps/details?id=com.kmkappdeveloper.diyetrehberim.pro" style="width: 196px;
-    display: flex;
-    justify-content: center;
-    margin: 0 auto; padding: 16px;
-    font-size: 18px;
-    font-weight: bold; box-shadow: 0px 8px 15px rgb(0 0 0 / 10%);" class="btn btn-primary">Diyet Rehberim Pro</a>
+      display: flex;
+      justify-content: center;
+      margin: 0 auto; padding: 16px;
+      font-size: 18px;
+      font-weight: bold; box-shadow: 0px 8px 15px rgb(0 0 0 / 10%);" class="btn btn-primary">Diyet Rehberim Pro</a>
+
+
+
+
+
+
+      <main class="container">
+        <div class="row flex-column align-items-center justify-content-center" style="height: inherit;">
+          <div class="header" style="margin-bottom: 5%;">
+            <h2 style="text-align: center;">Hosting Pricing Table (Nine)</h2>
+            <div class="d-flex justify-content-center"><small>Crafted by <a href="#">DesginBootstrap</a></small></div>
+          </div>  
+          <table class="table border">
+            <thead>
+              <tr>
+                <th scope="col" height="75"> </th>
+                <th scope="col" class="t-white" style="background-color: orangered">Diyet Rehberim</th>
+                <th scope="col" class="t-white" style="background-color: dodgerblue">Diyet Rehberim Pro</th>
+              </tr>
+              <tbody>
+                <tr>
+                  <th scope="row" class="row-header">Diyet Listeleri ve Yemek Tarifleri</th>
+                  <td><i class="fas fa-check"></i></td>
+                  <td><i class="fas fa-check"></i></td>
+                </tr>
+
+                <tr>
+                  <th scope="row" class="row-header">Su Takibi</th>
+                  <td><i class="fas fa-check"></i></td>
+                  <td><i class="fas fa-check"></i></td>
+                </tr>
+
+                <tr>
+                  <th scope="row" class="row-header">Egzersiz Rehberi</th>
+                  <td><i class="fas fa-check"></i></td>
+                  <td><i class="fas fa-check"></i></td>
+                </tr>
+
+                <tr>
+                  <th scope="row" class="row-header">Kilo Takibi</th>
+                  <td><i class="fas fa-check"></i></td>
+                  <td><i class="fas fa-check"></i></td>
+                </tr>
+
+                <tr>
+                  <th scope="row" class="row-header">Öğün Hatırlatıcı</th>
+                  <td><i class="fas fa-check"></i></td>
+                  <td><i class="fas fa-check"></i></td>
+                </tr>
+<tr>
+                  <th scope="row" class="row-header">Reklamsız</th>
+                  <td><i class="fas fa-times"></i></td>
+                  <td><i class="fas fa-check"></i></td>
+                </tr>
+
+                <tr>
+                  <th scope="row" class="row-header"></th>
+                  <td class="px-0"><button type="button" class="btn" style="background-color: orangered">BUY PLAN</button></td>
+                  <td class="px-0"><button type="button" class="btn" style="background-color: dodgerblue">BUY PLAN</button></td>
+                </tr>
+              </tbody>
+            </thead>
+          </table>
+        </div>
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+      </main>
+
+
+
+
+
+
+
+
+
+
+
 
 
       <div style="width: 100%">
