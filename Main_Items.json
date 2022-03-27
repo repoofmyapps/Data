@@ -26,7 +26,16 @@
 
 
 
-
+        {
+            "diyet_id": "109",
+            "diyet_adi": "Yeşil Elma Detoksu",
+            "diyet_resim": "https://firebasestorage.googleapis.com/v0/b/diyet-rehberim.appspot.com/o/DiyetRehberim%2FImages%2F26032022_K%C3%9CBRA_-Mz5aTtADFGPnmU8eCgj%2FUPLOAD_IMG_2.jpg?alt=media&token=174d4576-5ac9-4c1a-b747-fe5a7232a54d",
+            "diyet_url": "26032022_KÜBRA_-Mz5aTtADFGPnmU8eCgj",
+            "diyet_tipi": "tarif",
+            "kategori_adi": "Detoks Tarifleri",
+            "kategori_adi_ek": "Kahvaltılık Tarifler",
+            "diyet_yazar": "user"
+        },
         {
             "diyet_id": "108",
             "diyet_adi": "Montignac Diyeti ile Kilo Ver",
