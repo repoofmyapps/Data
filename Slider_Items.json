@@ -1,7 +1,7 @@
 {
 	"DiyetRehberim": [				
 		{
-			"id": "11",
+			"id": "9",
 			"image": "https://raw.githubusercontent.com/repoofmyapps/Data/master/SliderImages/uygulamayi_guncelle.jpg",
 			"title": "1.2.1.7",
 			"desc": "this",
@@ -10,26 +10,6 @@
 			"content":"check",
 			"url":"https://play.google.com/store/apps/details?id=com.kmkappdeveloper.diyetrehberim"
 		},
-		{
-			"id": "10",
-			"image": "https://raw.githubusercontent.com/repoofmyapps/Data/master/SliderImages/paylas_image.jpg",
-			"title": "null",
-			"desc": "null",
-			"tag": "explanation",
-			"related": "advertised",
-			"content":"share",
-			"url":"null"
-		},
-		{
-			"id": "9",
-			"image": "https://raw.githubusercontent.com/repoofmyapps/Data/master/SliderImages/mail_gonder_v5.jpg",
-			"title": "null",
-			"desc": "null",
-			"tag": "explanation",
-			"related": "adfree",
-			"content":"mail",
-			"url":"null"
-		},		
 		{
 			"id": "8",
 			"image": "https://raw.githubusercontent.com/repoofmyapps/Data/master/SliderImages/karnabahar.jpg",
