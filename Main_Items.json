@@ -23,9 +23,17 @@
         },
 
 
-
-
-
+        
+        {
+            "diyet_id": "110",
+            "diyet_adi": "Kore Mochi Tarifi",
+            "diyet_resim": "https://firebasestorage.googleapis.com/v0/b/diyet-rehberim.appspot.com/o/DiyetRehberim%2FImages%2F20042022_Berra_Polat_-N064nBV6Tc-_06PBKAV%2FUPLOAD_IMG_3.jpg?alt=media&token=0ace42d9-2216-45a7-b3b5-c7caf4d44deb",
+            "diyet_url": "20042022_Berra_Polat_-N064nBV6Tc-_06PBKAV",
+            "diyet_tipi": "tarif",
+            "kategori_adi": "Detoks Tarifleri",
+            "kategori_adi_ek": "Atıştırmalıklar",
+            "diyet_yazar": "user"
+        },
         {
             "diyet_id": "109",
             "diyet_adi": "Yeşil Elma Detoksu",
