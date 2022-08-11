@@ -1471,5 +1471,23 @@
             "exercise_targeted_muscle": "null",
             "exercise_desc": "null"
         }
+        ,
+        {
+            "exercise_id": 147,
+            "exercise_name": "Mekik Çekme (Crunch)",
+            "exercise_image": "null",
+            "exercise_factor": 3,
+            "exercise_weight_factor": 1,
+            "exercise_minutes": "1 Dakika",
+            "exercise_targeted_muscle": "null",
+            "exercise_desc": "null"
+        }
     ]
 }
+
+
+
+
+Units of time must be converted to hours. Therefore, 30 min = 0.5 hr
+
+Calories burned = 70 kg x 3 kcal/kg/hr x 0.5 hr = 105 kcals burned

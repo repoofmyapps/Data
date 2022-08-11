@@ -1,0 +1,1274 @@
+{
+  "DiyetRehberim": [
+    {
+      "exercise_id": 0,
+      "exercise_name": "Aerobik (Genel)",
+      "exercise_image": "null",
+      "exercise_factor": 7.3,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 1,
+      "exercise_name": "Aerobik (Yüksek)",
+      "exercise_image": "null",
+      "exercise_factor": 8.5,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 2,
+      "exercise_name": "Alışveriş Yapma",
+      "exercise_image": "null",
+      "exercise_factor": 2.3,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 3,
+      "exercise_name": "Antreman Yapma (Tempolu)",
+      "exercise_image": "null",
+      "exercise_factor": 9.3,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 4,
+      "exercise_name": "At Binme (Genel)",
+      "exercise_image": "null",
+      "exercise_factor": 5.5,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 5,
+      "exercise_name": "Atletizim (Genel)",
+      "exercise_image": "null",
+      "exercise_factor": 4,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 6,
+      "exercise_name": "Atletizim (Yüksek Efor)",
+      "exercise_image": "null",
+      "exercise_factor": 6,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 7,
+      "exercise_name": "Ayakta Durma",
+      "exercise_image": "null",
+      "exercise_factor": 2,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 8,
+      "exercise_name": "Ağaç Dikme",
+      "exercise_image": "null",
+      "exercise_factor": 4.5,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 9,
+      "exercise_name": "Ağırlık Egzersizleri (8-15 Tekrar)",
+      "exercise_image": "null",
+      "exercise_factor": 3.5,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 10,
+      "exercise_name": "Bahçe Ekimi",
+      "exercise_image": "null",
+      "exercise_factor": 4.3,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 11,
+      "exercise_name": "Bahçıvanlık İşleri",
+      "exercise_image": "null",
+      "exercise_factor": 2.3,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 12,
+      "exercise_name": "Bale",
+      "exercise_image": "null",
+      "exercise_factor": 5,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 13,
+      "exercise_name": "Balık Tutma",
+      "exercise_image": "null",
+      "exercise_factor": 3.5,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 14,
+      "exercise_name": "Barfiks Çekme (Düşük Efor)",
+      "exercise_image": "null",
+      "exercise_factor": 2.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 15,
+      "exercise_name": "Barfiks Çekme (Ortalama Efor)",
+      "exercise_image": "null",
+      "exercise_factor": 3.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 16,
+      "exercise_name": "Barfiks Çekme (Yüksek Efor)",
+      "exercise_image": "null",
+      "exercise_factor": 8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 17,
+      "exercise_name": "Basketbol Oynamak (Genel)",
+      "exercise_image": "null",
+      "exercise_factor": 6.5,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 18,
+      "exercise_name": "Bisiklet Sürmek (16 kmh)",
+      "exercise_image": "null",
+      "exercise_factor": 4,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 19,
+      "exercise_name": "Bisiklet Sürmek (19 kmh)",
+      "exercise_image": "null",
+      "exercise_factor": 6.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 20,
+      "exercise_name": "Bisiklet Sürmek (25 kmh)",
+      "exercise_image": "null",
+      "exercise_factor": 10,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 21,
+      "exercise_name": "Bisiklet Sürmek (30 kmh)",
+      "exercise_image": "null",
+      "exercise_factor": 12,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 22,
+      "exercise_name": "Bisiklet Sürmek (32 kmh)",
+      "exercise_image": "null",
+      "exercise_factor": 15.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 23,
+      "exercise_name": "Bisiklet Sürmek (8 kmh)",
+      "exercise_image": "null",
+      "exercise_factor": 3.5,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 24,
+      "exercise_name": "Bisiklet Sürmek (BMX)",
+      "exercise_image": "null",
+      "exercise_factor": 8.5,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 25,
+      "exercise_name": "Bisiklet Sürmek (Dağ Genel)",
+      "exercise_image": "null",
+      "exercise_factor": 8.5,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 26,
+      "exercise_name": "Bisiklet Sürmek (Dağ Tırmanışı)",
+      "exercise_image": "null",
+      "exercise_factor": 14,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 27,
+      "exercise_name": "Bisiklet Sürmek (Genel)",
+      "exercise_image": "null",
+      "exercise_factor": 7.5,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 28,
+      "exercise_name": "Bisiklet Sürmek (Ortalama Hız)",
+      "exercise_image": "null",
+      "exercise_factor": 6.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 29,
+      "exercise_name": "Bisiklet Sürmek (Toprak Yol)",
+      "exercise_image": "null",
+      "exercise_factor": 5.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 30,
+      "exercise_name": "Bisiklet Sürmek (Yarış)",
+      "exercise_image": "null",
+      "exercise_factor": 16,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 31,
+      "exercise_name": "Boks Yapma (Kum Torbası)",
+      "exercise_image": "null",
+      "exercise_factor": 5.5,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 32,
+      "exercise_name": "Bulaşık Yıkama (Hafif Çaba)",
+      "exercise_image": "null",
+      "exercise_factor": 2.5,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 33,
+      "exercise_name": "Bulaşık Yıkama (Ortalama Çaba)",
+      "exercise_image": "null",
+      "exercise_factor": 3.3,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 34,
+      "exercise_name": "Burpee (Düşük Efor)",
+      "exercise_image": "null",
+      "exercise_factor": 2.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 35,
+      "exercise_name": "Burpee (Ortalama Efor)",
+      "exercise_image": "null",
+      "exercise_factor": 3.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 36,
+      "exercise_name": "Burpee (Yüksek Efor)",
+      "exercise_image": "null",
+      "exercise_factor": 8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 37,
+      "exercise_name": "Crossfit Egzersizleri (Hafif)",
+      "exercise_image": "null",
+      "exercise_factor": 2.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 38,
+      "exercise_name": "Crossfit Egzersizleri (Orta)",
+      "exercise_image": "null",
+      "exercise_factor": 3.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 39,
+      "exercise_name": "Crossfit Egzersizleri (Yüksek)",
+      "exercise_image": "null",
+      "exercise_factor": 8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 40,
+      "exercise_name": "Crunch (Yarım Mekik) (Düşük Efor)",
+      "exercise_image": "null",
+      "exercise_factor": 2.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 41,
+      "exercise_name": "Crunch (Yarım Mekik) (Ortalama Efor)",
+      "exercise_image": "null",
+      "exercise_factor": 3.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 42,
+      "exercise_name": "Crunch (Yarım Mekik) (Yüksek Efor)",
+      "exercise_image": "null",
+      "exercise_factor": 8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 43,
+      "exercise_name": "Dans (Genel)",
+      "exercise_image": "null",
+      "exercise_factor": 7.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 44,
+      "exercise_name": "Dans (Hızlı)",
+      "exercise_image": "null",
+      "exercise_factor": 11.3,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 45,
+      "exercise_name": "Dans Provası (Yoğun Tempo)",
+      "exercise_image": "null",
+      "exercise_factor": 6.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 46,
+      "exercise_name": "Dağ Tırmanışı (Genel)",
+      "exercise_image": "null",
+      "exercise_factor": 5.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 47,
+      "exercise_name": "Dağ Tırmanışı (Yüksek Zorluk)",
+      "exercise_image": "null",
+      "exercise_factor": 8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 48,
+      "exercise_name": "Ev Egzersizleri",
+      "exercise_image": "null",
+      "exercise_factor": 3.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 49,
+      "exercise_name": "Ev Eşyaları Taşıma",
+      "exercise_image": "null",
+      "exercise_factor": 5.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 50,
+      "exercise_name": "Fide Dikme",
+      "exercise_image": "null",
+      "exercise_factor": 2,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 51,
+      "exercise_name": "Futbol (Genel)",
+      "exercise_image": "null",
+      "exercise_factor": 8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 52,
+      "exercise_name": "Gerinme Egzersizleri",
+      "exercise_image": "null",
+      "exercise_factor": 2.3,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 53,
+      "exercise_name": "Golf Oynamak (Genel)",
+      "exercise_image": "null",
+      "exercise_factor": 4.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 54,
+      "exercise_name": "Hafif Tempolu Koşu",
+      "exercise_image": "null",
+      "exercise_factor": 6,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 55,
+      "exercise_name": "Jimnastik (Genel)",
+      "exercise_image": "null",
+      "exercise_factor": 3.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 56,
+      "exercise_name": "Jumping Jacks (Ortalama Efor)",
+      "exercise_image": "null",
+      "exercise_factor": 3.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 57,
+      "exercise_name": "Jumping Jacks (Yüksek Efor)",
+      "exercise_image": "null",
+      "exercise_factor": 8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 58,
+      "exercise_name": "Kano Kürek Çekme",
+      "exercise_image": "null",
+      "exercise_factor": 2.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 59,
+      "exercise_name": "Kano Taşıma",
+      "exercise_image": "null",
+      "exercise_factor": 7,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 60,
+      "exercise_name": "Kar Kürüme (Orta)",
+      "exercise_image": "null",
+      "exercise_factor": 5.3,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 61,
+      "exercise_name": "Kayak Yapma",
+      "exercise_image": "null",
+      "exercise_factor": 5,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 62,
+      "exercise_name": "Koşu (10 kmh)",
+      "exercise_image": "null",
+      "exercise_factor": 10.5,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 63,
+      "exercise_name": "Koşu (12 kmh)",
+      "exercise_image": "null",
+      "exercise_factor": 11.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 64,
+      "exercise_name": "Koşu (16 kmh)",
+      "exercise_image": "null",
+      "exercise_factor": 14.5,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 65,
+      "exercise_name": "Koşu (20 kmh)",
+      "exercise_image": "null",
+      "exercise_factor": 19.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 66,
+      "exercise_name": "Koşu (6 kmh)",
+      "exercise_image": "null",
+      "exercise_factor": 6,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 67,
+      "exercise_name": "Koşu (8 kmh)",
+      "exercise_image": "null",
+      "exercise_factor": 8.3,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 68,
+      "exercise_name": "Koşu (Genel)",
+      "exercise_image": "null",
+      "exercise_factor": 7,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 69,
+      "exercise_name": "Koşu (Maraton)",
+      "exercise_image": "null",
+      "exercise_factor": 13.3,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 70,
+      "exercise_name": "Köpek Gezdirme",
+      "exercise_image": "null",
+      "exercise_factor": 3,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 71,
+      "exercise_name": "Kürek Çekme (Ortalama)",
+      "exercise_image": "null",
+      "exercise_factor": 4.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 72,
+      "exercise_name": "Kürek Çekme (Yüksek)",
+      "exercise_image": "null",
+      "exercise_factor": 8.5,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 73,
+      "exercise_name": "Lunge (Düşük Efor)",
+      "exercise_image": "null",
+      "exercise_factor": 2.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 74,
+      "exercise_name": "Lunge (Düşük Efor)",
+      "exercise_image": "null",
+      "exercise_factor": 2.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 75,
+      "exercise_name": "Lunge (Ortalama Efor)",
+      "exercise_image": "null",
+      "exercise_factor": 3.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 76,
+      "exercise_name": "Lunge (Yüksek Efor)",
+      "exercise_image": "null",
+      "exercise_factor": 8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 77,
+      "exercise_name": "Masa Başı Çalışmak",
+      "exercise_image": "null",
+      "exercise_factor": 1.3,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 78,
+      "exercise_name": "Masa Tenisi Oynama",
+      "exercise_image": "null",
+      "exercise_factor": 4,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 79,
+      "exercise_name": "Meditasyon Yapma",
+      "exercise_image": "null",
+      "exercise_factor": 1,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 80,
+      "exercise_name": "Merdiven Çıkmak (Hızlı Tempo)",
+      "exercise_image": "null",
+      "exercise_factor": 8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 81,
+      "exercise_name": "Merdiven Çıkmak (Yavaş Tempo)",
+      "exercise_image": "null",
+      "exercise_factor": 4,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 82,
+      "exercise_name": "Müzik Aletleri Çalma (Genel)",
+      "exercise_image": "null",
+      "exercise_factor": 2,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 83,
+      "exercise_name": "Okuma",
+      "exercise_image": "null",
+      "exercise_factor": 1.3,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 84,
+      "exercise_name": "Oturma",
+      "exercise_image": "null",
+      "exercise_factor": 1.3,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 85,
+      "exercise_name": "Paten Kayma",
+      "exercise_image": "null",
+      "exercise_factor": 7,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 86,
+      "exercise_name": "Pilates (Genel)",
+      "exercise_image": "null",
+      "exercise_factor": 3,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 87,
+      "exercise_name": "Satranç Oynama",
+      "exercise_image": "null",
+      "exercise_factor": 1.5,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 88,
+      "exercise_name": "Su Egzersizleri",
+      "exercise_image": "null",
+      "exercise_factor": 5.3,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 89,
+      "exercise_name": "Su Voleybolu",
+      "exercise_image": "null",
+      "exercise_factor": 3,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 90,
+      "exercise_name": "Sırt Çantasıyla Yürüme",
+      "exercise_image": "null",
+      "exercise_factor": 7.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 91,
+      "exercise_name": "Tam Mekik Çekme (Düşük Efor)",
+      "exercise_image": "null",
+      "exercise_factor": 2.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 92,
+      "exercise_name": "Tam Mekik Çekme (Ortalama Efor)",
+      "exercise_image": "null",
+      "exercise_factor": 3.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 93,
+      "exercise_name": "Tam Mekik Çekme (Yüksek Efor)",
+      "exercise_image": "null",
+      "exercise_factor": 8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 94,
+      "exercise_name": "Telefonla Konuşma",
+      "exercise_image": "null",
+      "exercise_factor": 1.3,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 95,
+      "exercise_name": "Televizyon İzlemek",
+      "exercise_image": "null",
+      "exercise_factor": 1,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 96,
+      "exercise_name": "Temizlik (Genel)",
+      "exercise_image": "null",
+      "exercise_factor": 3.3,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 97,
+      "exercise_name": "Temizlik (Orta)",
+      "exercise_image": "null",
+      "exercise_factor": 3.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 98,
+      "exercise_name": "Tenis Oynama (Genel)",
+      "exercise_image": "null",
+      "exercise_factor": 7.3,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 99,
+      "exercise_name": "Trambolin (Eğlence)",
+      "exercise_image": "null",
+      "exercise_factor": 3.5,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 100,
+      "exercise_name": "Uyuma",
+      "exercise_image": "null",
+      "exercise_factor": 0.95,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 101,
+      "exercise_name": "Voleybol Oynama",
+      "exercise_image": "null",
+      "exercise_factor": 6,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 102,
+      "exercise_name": "Voleybol Oynama (Plajda)",
+      "exercise_image": "null",
+      "exercise_factor": 8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 103,
+      "exercise_name": "Vücut Direnç Geliştirme Egzersizleri",
+      "exercise_image": "null",
+      "exercise_factor": 6,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 104,
+      "exercise_name": "Yemek Pişirme",
+      "exercise_image": "null",
+      "exercise_factor": 3.3,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 105,
+      "exercise_name": "Yoga",
+      "exercise_image": "null",
+      "exercise_factor": 2.5,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 106,
+      "exercise_name": "Yoga (Güç)",
+      "exercise_image": "null",
+      "exercise_factor": 4,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 107,
+      "exercise_name": "Yokuş Aşağı Yürüme",
+      "exercise_image": "null",
+      "exercise_factor": 3.3,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 108,
+      "exercise_name": "Yürüme (Hızlı 6 kmh)",
+      "exercise_image": "null",
+      "exercise_factor": 4.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 109,
+      "exercise_name": "Yürüme (Orta 5 kmh)",
+      "exercise_image": "null",
+      "exercise_factor": 3.5,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 110,
+      "exercise_name": "Yürüme (Yavaş 3.5 kmh)",
+      "exercise_image": "null",
+      "exercise_factor": 2,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 111,
+      "exercise_name": "Yürüme (Çok Hızlı 7 kmh)",
+      "exercise_image": "null",
+      "exercise_factor": 7,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 112,
+      "exercise_name": "Yürüme (Çok Çok Hızlı 8 kmh)",
+      "exercise_image": "null",
+      "exercise_factor": 8.3,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 113,
+      "exercise_name": "Yüzme (Genel)",
+      "exercise_image": "null",
+      "exercise_factor": 13.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 114,
+      "exercise_name": "Yüzme (Sırt Üstü)",
+      "exercise_image": "null",
+      "exercise_factor": 4.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 115,
+      "exercise_name": "Çeşitli Egzersizler (Düşük Efor)",
+      "exercise_image": "null",
+      "exercise_factor": 2.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 116,
+      "exercise_name": "Çeşitli Egzersizler (Ortalama Efor)",
+      "exercise_image": "null",
+      "exercise_factor": 3.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 117,
+      "exercise_name": "Çeşitli Egzersizler (Yüksek Efor)",
+      "exercise_image": "null",
+      "exercise_factor": 8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 118,
+      "exercise_name": "Çim Biçme",
+      "exercise_image": "null",
+      "exercise_factor": 5.5,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 119,
+      "exercise_name": "Çizim Yapma",
+      "exercise_image": "null",
+      "exercise_factor": 1.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 120,
+      "exercise_name": "İp Atlama (100-120 atlama/dk)",
+      "exercise_image": "null",
+      "exercise_factor": 11.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 121,
+      "exercise_name": "İp Atlama (120-160 atlama/dk)",
+      "exercise_image": "null",
+      "exercise_factor": 12.3,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 122,
+      "exercise_name": "İp Atlama (< 100 atlama/dk)",
+      "exercise_image": "null",
+      "exercise_factor": 8.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 123,
+      "exercise_name": "İp Atlama (Yüksek)",
+      "exercise_image": "null",
+      "exercise_factor": 12.3,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 124,
+      "exercise_name": "Şınav Çekme (Düşük Efor)",
+      "exercise_image": "null",
+      "exercise_factor": 2.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 125,
+      "exercise_name": "Şınav Çekme (Ortalama Efor)",
+      "exercise_image": "null",
+      "exercise_factor": 3.8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    },
+    {
+      "exercise_id": 126,
+      "exercise_name": "Şınav Çekme (Yüksek Efor)",
+      "exercise_image": "null",
+      "exercise_factor": 8,
+      "exercise_weight_factor": 1,
+      "exercise_minutes": "1 Dakika",
+      "exercise_targeted_muscle": "null",
+      "exercise_desc": "null"
+    }
+  ]
+}
