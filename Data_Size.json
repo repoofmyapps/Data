@@ -2,9 +2,9 @@
     "DiyetRehberim":
     [
         {
-            "all_items_size": 110,
+            "all_items_size": 111,
             "food_items_size": 3292,
-            "recipe_items_size": 11,
+            "recipe_items_size": 14,
             "slide_items_size": 8,
             "activity_items_size": 128
         }

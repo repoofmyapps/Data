@@ -3,6 +3,16 @@
     [
         
         {
+            "diyet_id": "111",
+            "diyet_adi": "Meyveli Milföy",
+            "diyet_resim": "https://firebasestorage.googleapis.com/v0/b/diyet-rehberim.appspot.com/o/DiyetRehberim%2FImages%2F16082022_%C4%B0lknr_-N9cJEuxT8Sa3sx0D7qu%2FIMG_1.jpg?alt=media&token=72e067e4-6821-4ee8-b7f4-6df89db69158",
+            "diyet_url": "16082022_İlknr_-N9cJEuxT8Sa3sx0D7qu",
+            "diyet_tipi": "tarif",
+            "kategori_adi": "Tatlılar",
+            "kategori_adi_ek": "Atıştırmalıklar",
+            "diyet_yazar": "user"
+        },
+        {
             "diyet_id": "110",
             "diyet_adi": "Kore Mochi Tarifi",
             "diyet_resim": "https://firebasestorage.googleapis.com/v0/b/diyet-rehberim.appspot.com/o/DiyetRehberim%2FImages%2F20042022_Berra_Polat_-N064nBV6Tc-_06PBKAV%2FUPLOAD_IMG_4.jpg?alt=media&token=b38e470f-dec9-4c95-b6c6-0d0f8117c8f3",
