@@ -1,7 +1,16 @@
 {
     "DiyetRehberim":
     [
-        
+        {
+            "diyet_id": "112",
+            "diyet_adi": "Karabuğday Köfte",
+            "diyet_resim": "https://firebasestorage.googleapis.com/v0/b/diyet-rehberim.appspot.com/o/DiyetRehberim%2FImages%2F29082022_Lila_-NAeO5a1FKPjR4AY7Rbg%2FIMG_2.jpg?alt=media&token=7701f45b-abda-49a0-b6b5-eafd844ae350",
+            "diyet_url": "29082022_Lila_-NAeO5a1FKPjR4AY7Rbg",
+            "diyet_tipi": "tarif",
+            "kategori_adi": "Ana Yemekler",
+            "kategori_adi_ek": "Atıştırmalıklar",
+            "diyet_yazar": "user"
+        },
         {
             "diyet_id": "111",
             "diyet_adi": "Meyveli Milföy",
