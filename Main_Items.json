@@ -2,6 +2,16 @@
     "DiyetRehberim":
     [
         {
+            "diyet_id": "113",
+            "diyet_adi": "Nutellalı Kurabiye",
+            "diyet_resim": "https://firebasestorage.googleapis.com/v0/b/diyet-rehberim.appspot.com/o/DiyetRehberim%2FImages%2F19112022_Selin_-NHEwnXmdKerGIHBaw5b%2FIMG_2.jpg?alt=media&token=af923f08-eb48-4730-9ee9-d55bf511230a",
+            "diyet_url": "19112022_Selin_-NHEwnXmdKerGIHBaw5b",
+            "diyet_tipi": "tarif",
+            "kategori_adi": "Tatlılar",
+            "kategori_adi_ek": "Atıştırmalıklar",
+            "diyet_yazar": "user"
+        },
+        {
             "diyet_id": "112",
             "diyet_adi": "Karabuğday Köfte",
             "diyet_resim": "https://firebasestorage.googleapis.com/v0/b/diyet-rehberim.appspot.com/o/DiyetRehberim%2FImages%2F29082022_Lila_-NAeO5a1FKPjR4AY7Rbg%2FIMG_2.jpg?alt=media&token=7701f45b-abda-49a0-b6b5-eafd844ae350",
