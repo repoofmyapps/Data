@@ -2,6 +2,16 @@
     "DiyetRehberim":
     [
         {
+            "diyet_id": "114",
+            "diyet_adi": "Tavuk Izgara",
+            "diyet_resim": "https://firebasestorage.googleapis.com/v0/b/diyet-rehberim.appspot.com/o/DiyetRehberim%2FImages%2F21112022_Numan%C3%96zt%C3%BCrk_-NHOWV5wNbVds_OBwJ3C%2FIMG_1.jpg?alt=media&token=3ca85e9f-0ab2-4f0a-b61d-92cddf7a4916",
+            "diyet_url": "21112022_NumanÖztürk_-NHOWV5wNbVds_OBwJ3C",
+            "diyet_tipi": "tarif",
+            "kategori_adi": "Ana Yemekler",
+            "kategori_adi_ek": "Etli Yemekler",
+            "diyet_yazar": "user"
+        },
+        {
             "diyet_id": "113",
             "diyet_adi": "Nutellalı Kurabiye",
             "diyet_resim": "https://firebasestorage.googleapis.com/v0/b/diyet-rehberim.appspot.com/o/DiyetRehberim%2FImages%2F19112022_Selin_-NHEwnXmdKerGIHBaw5b%2FIMG_2.jpg?alt=media&token=af923f08-eb48-4730-9ee9-d55bf511230a",
